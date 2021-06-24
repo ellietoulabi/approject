@@ -1,1 +1,1 @@
-This is just a test for git not a part of main program ;)
+
